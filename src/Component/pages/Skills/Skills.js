@@ -8,7 +8,7 @@ const Skills = () => {
 
 
     return (
-        <div className='main'>
+        <div className='main py-40'>
             <section className="skills section" id="skills">
                 <h2 data-heading="My Abilities" className='section_title'>My Experience</h2>
 
